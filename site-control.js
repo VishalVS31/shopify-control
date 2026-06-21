@@ -1,7 +1,7 @@
 (function () {
 
   const CONFIG = {
-    enabled: false,
+    enabled: true,
 
     delay: 1000,
 
